@@ -1,6 +1,6 @@
 # FinTech Finder Cryptocurrency Wallet
 
-![Blockchain](./Images/blockchain.jpeg)
+![Cryptocurrency Wallet](./Images/crypto_wallet.jpeg)
 
 ---
 
