@@ -42,19 +42,19 @@ pip install bip44
 
 ## Transaction Verification
 
-The following section shows the results of a successful Ethereum wallet transaction. 
+The following section shows the results of a successful Ethereum wallet transaction. For our example transaction, we compensated _Jo_ for four hours. 
 
 ### Current Address Balance
 
-
+![Current Address Balance](./Images/current_balance.png)
 
 ### Transaction Details
 
-
+![Transaction Details](./Iimages/transaction.png)
 
 ### Recipient's Address Balance 
 
-
+![Current Address Balance of Jo](./Images/current_balance_jo.png)
 
 ---
 
