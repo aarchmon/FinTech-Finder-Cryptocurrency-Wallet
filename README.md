@@ -50,7 +50,7 @@ The following section shows the results of a successful Ethereum wallet transact
 
 ### Transaction Details
 
-![Transaction Details](./Iimages/transaction.png)
+![Transaction Details](./Images/transaction.png)
 
 ### Recipient's Address Balance 
 
